@@ -1,29 +1,45 @@
 ---
 layout: page
-title: About
+title: 著者の来歴と連絡先
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+### 2014年
+* 早稲田大学基幹理工学部学系II 入学（後に情報理工学科へ振り分け）
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+### 2017年
+* 生命情報解析研究室に配属
 
-## Features
+### 2018年
+* Graphene-SGXを用いたシステムに関する卒業論文を執筆
+* 早稲田大学基幹理工学部情報理工学科卒業
+* 早稲田大学大学院 情報理工・情報通信専攻 生命情報解析研究室に配属
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+### 2019年
+* 2019年度IPA未踏事業採択
+  * [未踏iPedia](https://jinzaiipedia.ipa.go.jp/mitou_ipedia/development_result/post/%E7%94%9F%E5%91%BD%E6%83%85%E5%A0%B1%E8%A7%A3%E6%9E%90%E5%90%91%E3%81%91%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E7%A7%98%E5%AF%86%E8%A8%88)
+* SGXベースのインタプリタ搭載秘密計算クラウドシステム「[BI-SGX](https://bi-sgx.net/)」の開発
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+### 2020年
+* 2019年度IPA未踏事業スーパークリエータ認定取得
+* 第59回バイオインフォマティクス研究会 優秀プレゼンテーション賞受賞
+* 日本アイ・ビー・エム株式会社入社
+
+### 2021年
+虚無期間
+
+### 2022年
+* 産業技術総合研究所におけるSGX関連の研究支援
+* 株式会社Acompanyに転職；プライバシーテックに関連する研究開発に参画開始
+
+### 2023年
+* 株式会社DatachainにおけるTEE（主にIntel SGX）に関連する脆弱性調査支援
+* 株式会社AcompanyにてR&Dチームのテックリードに昇格
+* 2023年度セキュリティキャンプ全国大会 L5 - TEEの活用と攻撃実践ゼミ 講師
+* TEE（主にIntel SGX）を用いたプロジェクトの先導
+
+### 連絡先
+Linksページに掲載のSNSの他、以下のメールアドレスでもお問い合わせを受け付けております。  
+asakurai☆mitou●org (☆->@, ●->.)  
+
+Intel SGXを始めとしたTEEに関するお仕事（業務委託）のご相談や、その他セキュリティに関する業務のご相談等、お気軽にお尋ねください。
