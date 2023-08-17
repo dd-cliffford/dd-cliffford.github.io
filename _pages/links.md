@@ -17,5 +17,5 @@ permalink: /links/
 [BI-SGX | Bioinformatic Interpreter on SGX-based Secure Computing Cloud](https://bi-sgx.net/)
 
 ### Linkedin
-更新頻度は少なめです。
+更新頻度は少なめです。  
 [Linkedin](https://www.linkedin.com/in/aos-cliffford/)
