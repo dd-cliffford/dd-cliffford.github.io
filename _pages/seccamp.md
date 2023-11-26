@@ -4,7 +4,7 @@ title: セキュリティキャンプ講義資料
 permalink: /seccamp/
 ---
 
-このページでは、セキュリティキャンプで使用した講義資料（PDF形式）を掲載します。
+このページでは、セキュリティキャンプで使用した講義資料（PDF形式）や補足資料を掲載します。
 
 ### 2023年度 L5 - TEEの活用と攻撃実践ゼミ
 * [セキュリティキャンプ - 1 TEEとは何か？](/media/2023-1-what-is-tee.pdf)
@@ -18,8 +18,14 @@ permalink: /seccamp/
 * [セキュリティキャンプ - 9 SGX攻撃編②](/media/2023-9-sgx-attacks-2.pdf)
 * [セキュリティキャンプ - 10 SGX攻撃編③](/media/2023-10-sgx-attacks-3.pdf)
 
-### その他関連GitHubリポジトリ
+### その他SGX脆弱性解説
+* [SGX脆弱性解説 - Zombieload](/media/zombieload-explained.pdf)
+* [SGX脆弱性解説 - Downfall](/media/downfall-explained.pdf)
+
+### 関連GitHubリポジトリ
 * [sgx-tmp](https://github.com/hello31337/seccamp2023-l5): SGXプログラムの雛形。実装学習用
 * [helloSGX](https://github.com/cBioLab/helloSGX): Enclaveを用いたごく簡単なプログラム
 * [helloSealing](https://github.com/cBioLab/helloSealing): シーリングを実行するコード例
 * [SGX-Bleed-PoC](https://github.com/hello31337/sgx-bleed-poc): SGX攻撃の一種であるSGX-BleedのPoCコード
+* [Humane-LAFW](https://github.com/acompany-develop/Humane-LAFW): Local Attestationを人道的（Humane）な難易度で実装するための雛形となるフレームワーク
+* [Humane-RAFW](https://github.com/acompany-develop/Humane-RAFW): EPID方式のRemote Attestationを人道的（Humane）な難易度で実装するための雛形となるフレームワーク
