@@ -4,7 +4,7 @@ title: セキュリティキャンプ講義資料
 permalink: /seccamp/
 ---
 
-このページでは、セキュリティキャンプで使用した講義資料（PDF形式）や補足資料を掲載します。
+このページでは、主にセキュリティキャンプで使用した講義資料（PDF形式）や補足資料を掲載します。
 
 ### 2023年度 L5 - TEEの活用と攻撃実践ゼミ
 * [セキュリティキャンプ - 1 TEEとは何か？](/media/2023-1-what-is-tee.pdf)
@@ -19,7 +19,7 @@ permalink: /seccamp/
 * [セキュリティキャンプ - 10 SGX攻撃編③](/media/2023-10-sgx-attacks-3.pdf)
 
 ### その他SGX脆弱性解説
-* [SGX脆弱性解説 - Zombieload](/media/zombieload-explained.pdf)
+* [SGX脆弱性解説 - ZombieLoad](/media/zombieload-explained.pdf)
 * [SGX脆弱性解説 - Downfall](/media/downfall-explained.pdf)
 
 ### 関連GitHubリポジトリ
