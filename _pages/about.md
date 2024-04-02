@@ -23,7 +23,7 @@ permalink: /about/
 
 ### 2019年
 * 2019年度IPA未踏事業採択
-  * [未踏iPedia](https://jinzaiipedia.ipa.go.jp/mitou_ipedia/development_result/post/%E7%94%9F%E5%91%BD%E6%83%85%E5%A0%B1%E8%A7%A3%E6%9E%90%E5%90%91%E3%81%91%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E7%A7%98%E5%AF%86%E8%A8%88)
+  * [未踏名鑑](https://scrapbox.io/mitou-meikan/%E6%AB%BB%E4%BA%95_%E7%A2%A7)
 * SGXベースのインタプリタ搭載秘密計算クラウドシステム「[BI-SGX](https://bi-sgx.net/)」の開発
 
 ### 2020年
@@ -43,6 +43,11 @@ permalink: /about/
 * 株式会社AcompanyにてR&Dチームのテックリードに昇格
 * 2023年度セキュリティキャンプ全国大会 L5 - TEEの活用と攻撃実践ゼミ 講師
 * TEE（主にIntel SGX）を用いたプロジェクトの先導
+
+### 2024年
+* 株式会社リチェルカセキュリティにおける、OP-TEE（TrustZone）向けのRemote Attestation実装支援
+* SCIS2024における学会・論文発表「SGX-EIM: Intel SGX Enclave を用いた秘匿 ID マッチング」
+* 2023年度未踏ITプロジェクト「TEEを用いたセキュアかつ高性能なデータベースシステムの開発」の技術支援
 
 ### 連絡先
 Linksページに掲載のSNSの他、以下のメールアドレスでもお問い合わせを受け付けております。  
