@@ -4,7 +4,8 @@ title: セキュリティキャンプ講義資料
 permalink: /seccamp/
 ---
 
-このページでは、主にセキュリティキャンプで使用した講義資料（PDF形式）や補足資料を掲載します。
+このページでは、主にセキュリティキャンプで使用した講義資料（PDF形式）や補足資料を掲載します。  
+出典を明記いただければ引用等は自由です。
 
 ### 2024年度 S03 - TEEビルド&スクラップゼミ
 * [セキュリティキャンプ - 1 TEEとは何か？](/media/2024-1-what-is-tee.pdf)
@@ -42,3 +43,7 @@ permalink: /seccamp/
 * [SGX-Bleed-PoC](https://github.com/hello31337/sgx-bleed-poc): SGX攻撃の一種であるSGX-BleedのPoCコード
 * [Humane-LAFW](https://github.com/acompany-develop/Humane-LAFW): Local Attestationを人道的（Humane）な難易度で実装するための雛形となるフレームワーク
 * [Humane-RAFW](https://github.com/acompany-develop/Humane-RAFW): EPID方式のRemote Attestationを人道的（Humane）な難易度で実装するための雛形となるフレームワーク
+
+### 寄付の募集
+本サイトのコンテンツは全て無料でご利用可能な上、広告が嫌いなので広告もつけませんが（万一ついていたら完全に意図せず勝手に付与されているものです）、もし気が向きましたら以下のURLより気持ち程度の募金をいただけると、著者が大変喜びます。  
+[Buy me a coffee](https://buymeacoffee.com/dd.cliffford)
