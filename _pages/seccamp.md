@@ -43,6 +43,7 @@ permalink: /seccamp/
 * [SGX-Bleed-PoC](https://github.com/hello31337/sgx-bleed-poc): SGX攻撃の一種であるSGX-BleedのPoCコード
 * [Humane-LAFW](https://github.com/acompany-develop/Humane-LAFW): Local Attestationを人道的（Humane）な難易度で実装するための雛形となるフレームワーク
 * [Humane-RAFW](https://github.com/acompany-develop/Humane-RAFW): EPID方式のRemote Attestationを人道的（Humane）な難易度で実装するための雛形となるフレームワーク
+* [Humane-RAFW-MAA](https://github.com/acompany-develop/Humane-RAFW-MAA): Quote検証機関としてMicrosoft Azure Attestation（MAA）を使用する設計での、DCAP方式のRemote Attestationを人道的（Humane）な難易度で実装するための雛形となるフレームワーク
 
 ### 寄付の募集
 本サイトのコンテンツは全て無料でご利用可能な上、広告が嫌いなので広告もつけませんが（万一ついていたら完全に意図せず勝手に付与されているものです）、もし気が向きましたら以下のURLより気持ち程度の募金をいただけると、著者が大変喜びます。  

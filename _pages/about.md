@@ -8,6 +8,7 @@ permalink: /about/
 * 氏名: 櫻井 碧
 * 居住地: 埼玉県
 * 生年月日: 1995/10/16
+* 所属（本業）: 株式会社Acompany
 * 趣味: TEE、蒙古タンメン中本、アメ車、バイク
 
 ### 2014年
@@ -46,8 +47,12 @@ permalink: /about/
 
 ### 2024年
 * 株式会社リチェルカセキュリティにおける、OP-TEE（TrustZone）向けのRemote Attestation実装支援
+* 株式会社DatachainにおけるTEE関連調査支援
 * SCIS2024における学会・論文発表「SGX-EIM: Intel SGX Enclave を用いた秘匿 ID マッチング」
 * 2023年度未踏ITプロジェクト「TEEを用いたセキュアかつ高性能なデータベースシステムの開発」の技術支援
+* SecHack2024 第2回イベント [ゲスト講演登壇](https://sechack365.nict.go.jp/report/2024/report_week02.html)
+* 2024年度セキュリティキャンプ全国大会 S3 - TEEビルド&スクラップゼミ 講師
+* プライバシーテック研究所イベント「Apple、Googleも注目する生成AI時代のプライバシーテック「TEE」とは何か」登壇
 
 ### 連絡先
 Linksページに掲載のSNSの他、以下のメールアドレスでもお問い合わせを受け付けております。  
