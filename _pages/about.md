@@ -54,6 +54,14 @@ permalink: /about/
 * 2024年度セキュリティキャンプ全国大会 S3 - TEEビルド&スクラップゼミ 講師
 * プライバシーテック研究所イベント「Apple、Googleも注目する生成AI時代のプライバシーテック「TEE」とは何か」登壇
 
+### 2025年
+* 株式会社リチェルカセキュリティにおける、OP-TEE（TrustZone）向けのRemote Attestation実装支援
+* 株式会社DatachainにおけるTEE関連調査支援
+* セキュリティキャンプフォーラム2025特別講演「未踏から繋がるTEEの最前線」登壇
+* Gramineコントリビュータ - GramineへのSGX KSS（Key Separation and Sharing）機能の[実装PR・レビュー対応実施済み](https://github.com/gramineproject/gramine/pull/2101)（マージは引き継いだため未了）
+* Atsuki Momose and Kailun Qin and Ao Sakurai and Mona Vij, "Securing Nested Attestation of Confidential Serverless Computing without Intra-Enclave Isolation", Cryptology {ePrint} Archive, Paper 2025/727（上記GramineへのKSS機能実装で貢献）
+* 2025年度セキュリティキャンプ全国大会 L3 - TEEビルド&スクラップゼミ 講師
+
 ### 連絡先
 Linksページに掲載のSNSの他、以下のメールアドレスでもお問い合わせを受け付けております。  
 asakurai☆mitou●org (☆->@, ●->.)  
