@@ -4,7 +4,7 @@ title: 2025年度セキュリティキャンプ全国大会 開発コースL3ゼ
 categories: Lectures
 ---
 
-2024年度セキュリティキャンプ全国大会にて、開発コースS03「TEEビルド&スクラップゼミ」の講師を担当いたします。  
+2025年度セキュリティキャンプ全国大会にて、開発コースL3「TEEビルド&スクラップゼミ」の講師を担当いたします。  
 [セキュリティキャンプ全国大会2025 L3「TEEビルド&スクラップゼミ」概要](https://www.ipa.go.jp/jinzai/security-camp/2025/camp/zenkoku/program/l.html#l3)  
 [TEEビルド&スクラップゼミ応募課題](https://www.ipa.go.jp/jinzai/security-camp/2025/camp/zenkoku/sbn8o1000000c4oy-att/kadai_l3.txt)  
 
