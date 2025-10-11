@@ -9,7 +9,8 @@ permalink: /about/
 * 居住地: 埼玉県
 * 生年月日: 1995/10/16
 * 所属（本業）: 株式会社Acompany
-* 趣味: TEE、蒙古タンメン中本、アメ車、バイク
+* その他肩書: 2019年度未踏スーパークリエータ、セキュリティ・キャンプ全国大会講師（2023-）、株式会社Datachain業務委託（TEE脆弱性調査）、情報セキュリティ大学院大学特任研究員
+* 趣味: TEE、蒙古タンメン中本、車・バイク
 
 ### 2014年
 * 早稲田大学基幹理工学部学系II 入学（後に情報理工学科へ振り分け）
@@ -61,6 +62,7 @@ permalink: /about/
 * Gramineコントリビュータ - GramineへのSGX KSS（Key Separation and Sharing）機能の[実装PR・レビュー対応実施済み](https://github.com/gramineproject/gramine/pull/2101)（マージは引き継いだため未了）
 * Atsuki Momose and Kailun Qin and Ao Sakurai and Mona Vij, "Securing Nested Attestation of Confidential Serverless Computing without Intra-Enclave Isolation", Cryptology {ePrint} Archive, Paper 2025/727（上記GramineへのKSS機能実装で貢献）
 * 2025年度セキュリティキャンプ全国大会 L3 - TEEビルド&スクラップゼミ 講師
+* 情報セキュリティ大学院大学にて特任研究員に着任
 
 ### 連絡先
 Linksページに掲載のSNSの他、以下のメールアドレスでもお問い合わせを受け付けております。  
