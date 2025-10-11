@@ -62,7 +62,7 @@ permalink: /about/
 * Gramineコントリビュータ - GramineへのSGX KSS（Key Separation and Sharing）機能の[実装PR・レビュー対応実施済み](https://github.com/gramineproject/gramine/pull/2101)（マージは引き継いだため未了）
 * Atsuki Momose and Kailun Qin and Ao Sakurai and Mona Vij, "Securing Nested Attestation of Confidential Serverless Computing without Intra-Enclave Isolation", Cryptology {ePrint} Archive, Paper 2025/727（上記GramineへのKSS機能実装で貢献）
 * 2025年度セキュリティキャンプ全国大会 L3 - TEEビルド&スクラップゼミ 講師
-* 情報セキュリティ大学院大学にて特任研究員に着任
+* 情報セキュリティ大学院大学にて特任研究員に着任（副業）
 
 ### 連絡先
 Linksページに掲載のSNSの他、以下のメールアドレスでもお問い合わせを受け付けております。  
