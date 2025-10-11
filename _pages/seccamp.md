@@ -13,7 +13,7 @@ permalink: /seccamp/
 * [セキュリティキャンプ - 3 SGXプログラミングの基礎](/media/2025-3-hello-sgx.pdf)
 * [セキュリティキャンプ - 4 Sealing](/media/2025-4-sealing.pdf)
 * [セキュリティキャンプ - 5 Local Attestation](/media/2025-5-local-attestation.pdf)
-* [セキュリティキャンプ - 6 EPID Remote Attestation](/media/2025-6-remote-attestation.pdf)
+* [セキュリティキャンプ - 6 Remote Attestation](/media/2025-6-remote-attestation.pdf)
 * [セキュリティキャンプ - 7 SGX Fail](/media/2025-7-sgx-fail.pdf)
 * [セキュリティキャンプ - 8 SGX攻撃編①](/media/2025-8-sgx-attacks-1.pdf)
 * [セキュリティキャンプ - 9 SGX攻撃編②](/media/2025-9-sgx-attacks-2.pdf)
