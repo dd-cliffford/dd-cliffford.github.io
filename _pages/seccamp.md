@@ -7,6 +7,22 @@ permalink: /seccamp/
 このページでは、主にセキュリティキャンプで使用した講義資料（PDF形式）や補足資料を掲載します。  
 出典を明記いただければ引用等は自由です。
 
+### 2026年度 L1 - 暗号・CVMビルド&スクラップゼミ（CVMコース）
+* [セキュリティキャンプ - 1 TEEとは何か？](/media/2026-1-what-is-tee.pdf)
+* [セキュリティキャンプ - 2 Intel TDXの概要](/media/2026-2-tdx-basics1.pdf)
+* [セキュリティキャンプ - 3 TDXの基盤技術](/media/2026-3-tdx-basics2.pdf)
+* [セキュリティキャンプ - 4 TDXにおける仮想化](/media/2026-4-tdx-basics3.pdf)
+* [セキュリティキャンプ - 5 TDX ModuleとTDメタデータ](/media/2026-5-tdx-basics4.pdf)
+* [セキュリティキャンプ - 6 TDXのメモリ保護とその他追加機能](/media/2026-6-tdx-basics5.pdf)
+* [セキュリティキャンプ - 7 Attestationの基礎とLocal Attestation](/media/2026-7-tdx-attestation1.pdf)
+* [セキュリティキャンプ - 8 Remote Attestation①](/media/2026-8-tdx-attestation2.pdf)
+* [セキュリティキャンプ - 9 Remote Attestation②](/media/2026-9-tdx-attestation3.pdf)
+* [セキュリティキャンプ - 10 TDX攻撃整理と入門](/media/2026-10-tdx-attacks.pdf)
+* [セキュリティキャンプ - 11 Controlled-Channel Attacks](/media/2026-11-tdx-controlled-channel-attacks.pdf)
+* [セキュリティキャンプ - 12 Battering RAM](/media/2026-12-battering-ram.pdf)
+* [セキュリティキャンプ - 13 TEE.fail](/media/2026-13-tee-fail.pdf)
+* [セキュリティキャンプ - 14 TDX.Fail](/media/2026-14-tdx-fail.pdf)
+
 ### 2025年度 L3 - TEEビルド&スクラップゼミ
 * [セキュリティキャンプ - 1 TEEとは何か？](/media/2025-1-what-is-tee.pdf)
 * [セキュリティキャンプ - 2 Intel SGXの基礎](/media/2025-2-intel-sgx-basics.pdf)

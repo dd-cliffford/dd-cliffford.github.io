@@ -67,11 +67,15 @@ permalink: /about/
 ### 2026年
 * 株式会社DatachainにおけるTEE関連調査支援
 * 情報セキュリティ大学院大学・特任研究員として研究開発に従事（副業）
-* [Almure株式会社](https://almure.io/about.html)におけるTEE研究開発支援
+* [Almure株式会社](https://almure.io/about.html)における創業フェーズ協力・TEE研究開発支援（2ヶ月間）
+* 2026年度セキュリティキャンプ全国大会L1 - 暗号・CVMビルド&スクラップゼミ 講師
+* Intel TDXに関する[徹底解説ブログ記事](https://www.acompany.tech/privacytechlab/tdx-blog-hub)を執筆・公開
+* 株式会社Acompanyにおける複数回社内表彰受賞者の殿堂入り制度「THE GREATS」の殿堂入りを達成
 
 
 ### 連絡先
 Linksページに掲載のSNSの他、以下のメールアドレスでもお問い合わせを受け付けております。  
 asakurai☆mitou●org (☆->@, ●->.)  
 
-Intel SGXを始めとしたTEEに関するお仕事（業務委託）のご相談や、その他セキュリティに関する業務のご相談等、お気軽にお尋ねください。
+個人事業主Qliphoth Security Consulting（QSC）として、随時副業を募集しております。
+主にTEEに関するお仕事（業務委託）のご相談や、その他セキュリティに関する業務のご相談等、お気軽にお尋ねください。
